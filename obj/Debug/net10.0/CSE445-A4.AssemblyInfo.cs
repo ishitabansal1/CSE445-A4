@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSE445-A4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e893f145f83b08f676b52f21a09f82a48dd9ee1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecf6f8669831c1ac68164c89b6858a8d6e5bf0b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSE445-A4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSE445-A4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
