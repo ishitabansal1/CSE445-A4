@@ -11,7 +11,7 @@ namespace ConsoleApp1
         // Replace these with your real GitHub Pages URLs
         public static string xmlURL = "https://github.com/ishitabansal1/CSE445-A4/blob/mainNationalParks.xml";
 public static string xmlErrorURL = "https://github.com/ishitabansal1/CSE445-A4/blob/main/NationalParksErrors.xml";
-public static string xsdURL = "https://github.com/ishitabansal1/CSE445-A4/blob/main/NationalParks.xsd";
+public static string xsdURL = "https://github.com/ishitabansal1/CSE445-A4/blob/0a92bc47dd65aa22f2e8f8f90a3df0842afaba5b/NationalParks.xsd";
 
         public static void Main(string[] args)
         {
