@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address>
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Yellowstone</Name>
+    <Address NearestAirport="Bozeman">
+      <Number>2</Number>
+      <Street>Park Entrance Road</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Yosemite</Name>
+    <Name>Yosemite National Park</Name>
+    <Phone>209-372-0200</Phone>
+    <Address NearestAirport="Fresno">
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Valley</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Zion</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearestAirport="Las Vegas">
+      <Number>1</Number>
+      <Street>Zion Park Boulevard</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+  </NationalPark>
+
+</NationalPark>
