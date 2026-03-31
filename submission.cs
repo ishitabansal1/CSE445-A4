@@ -9,7 +9,7 @@ namespace ConsoleApp1
     public class Submission
     {
         // Replace these with your real GitHub Pages URLs
-        public static string xmlURL = "https://ishitabansal1.github.io/CSE445-A4/blob/mainNationalParks.xml";
+        public static string xmlURL = "https://github.com/ishitabansal1/CSE445-A4/blob/mainNationalParks.xml";
 public static string xmlErrorURL = "https://github.com/ishitabansal1/CSE445-A4/blob/main/NationalParksErrors.xml";
 public static string xsdURL = "https://github.com/ishitabansal1/CSE445-A4/blob/main/NationalParks.xsd";
 
